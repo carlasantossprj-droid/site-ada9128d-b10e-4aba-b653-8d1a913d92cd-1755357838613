@@ -1,0 +1,13 @@
+{
+  "name": "site-ada9128d-b10e-4aba-b653-8d1a913d92cd-1755357838613",
+  "version": "1.0.0",
+  "description": "Site agoravaiporra",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
